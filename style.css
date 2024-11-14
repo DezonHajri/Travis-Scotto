@@ -1,3 +1,22 @@
     .intestazione{
         background-color: aqua;
+        color: aliceblue;
+        text-align: center;
+
+        padding: 16px;
+
+        border-style: solid;
+        border-color: azure;
+        border-width: 16px;
+        border-radius: 30px;
     }
+
+     .Link-Navigazione{
+        color: aliceblue;
+    }
+
+     .Immagine-spostabile{
+        position: absolute;
+        top: 30spx;
+        left: 50px;
+     } 
