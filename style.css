@@ -20,3 +20,9 @@
         top: 30px;
         left: 50px;
      } 
+
+     .scheda-elemento{
+       position: absolute ;
+       left: 0px;
+       top: 1200px;
+     }
